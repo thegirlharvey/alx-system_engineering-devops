@@ -2,3 +2,4 @@
 1-listit has command ls that displays content list of your current directory.
 2-bring_me_home has command cd that takes you back to home directory.
 3-listflies has command to display dir contents in long format.
+4-listmorefiles can list hidden files.
