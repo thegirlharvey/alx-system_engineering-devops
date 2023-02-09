@@ -4,3 +4,6 @@
 3-listflies has command to display dir contents in long format.
 4-listmorefiles can list hidden files.
 5-listfilesdigitonly has command to display dir lists numerically and with hiddenfiles.
+6-firstdirectory has comand that creates a directory in another directory.
+7-movethatfile has command that moves a file from folder to subfolder.
+8-firstdelete has command that deletes a file in a path.
