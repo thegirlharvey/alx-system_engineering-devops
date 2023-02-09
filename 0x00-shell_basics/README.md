@@ -7,3 +7,5 @@
 6-firstdirectory has comand that creates a directory in another directory.
 7-movethatfile has command that moves a file from folder to subfolder.
 8-firstdelete has command that deletes a file in a path.
+9-myfirstdirdeletion has command to delete directory in a path.
+10-back has command to chenge to previous working directory.
