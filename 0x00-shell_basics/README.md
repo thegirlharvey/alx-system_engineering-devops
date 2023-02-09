@@ -9,3 +9,5 @@
 8-firstdelete has command that deletes a file in a path.
 9-myfirstdirdeletion has command to delete directory in a path.
 10-back has command to chenge to previous working directory.
+11-lists has command to list multiple directory contents at once.
+12-file_type has command to print file type from another directory.
